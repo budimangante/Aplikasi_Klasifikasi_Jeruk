@@ -3,6 +3,7 @@
 A. Definisi Aplikasi:
 Aplikasi ini merupakan aplikasi yang dibuat untuk membantu petani atau pembeli dalam memilih serta mengelompokkan tingkat kecacatan pada buah jeruk mandarin. Dengan menggunakan fitur klasifikasi jeruk, pengguna cukup melakukan pemindaian (scan) pada gambar jeruk, dan aplikasi akan menampilkan persentase kemungkinan kondisi jeruk tersebut, apakah tergolong baik atau memiliki kecacatan tertentu.
 =======================================================================================================================================================================
+
 B. Penggunaan APP:
 1. Pilih Menu Klasifikasi
 Dari menu utama aplikasi, pilih fitur “Klasifikasi Jeruk” untuk memulai proses pendeteksian kecacatan.
@@ -23,8 +24,8 @@ Aplikasi akan menampilkan hasil klasifikasi berupa persentase tingkat kepercayaa
    - Hindari cahaya berlebihan atau pantulan.
 6. Adapun Manfaat jeruk, ini memberitahu apa aja manfaat yang ada pada jeruk
 =======================================================================================================================================================================
-C. Cara Mengaktifkan API:
 
+C. Cara Mengaktifkan API:
 Install Miniconda melalui link: https://www.anaconda.com/download
 B. Cara mengaktifkan API:
 1. Install miniconda pada link: https://www.anaconda.com/download
@@ -36,6 +37,7 @@ Django version 5.1.2, using settings 'synapse.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK."
 =======================================================================================================================================================================
+
 D. Cara Aktifkan Local Tunnel:
 1. pastikan sudah menginstall nodejs jika belum silahkan install pada link: https://nodejs.org/en/download
 2. Install Localtunnel pada link: https://theboroer.github.io/localtunnel-www/ aktifkan pada cmd dengan: npm install -g localtunnel
