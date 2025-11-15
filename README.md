@@ -1,4 +1,5 @@
 ===================================================================== APLIKASI KLASIFIKASI KECACATAN JERUK ============================================================
+
 A. Definisi Aplikasi:
 Aplikasi ini merupakan aplikasi yang dibuat untuk membantu petani atau pembeli dalam memilih serta mengelompokkan tingkat kecacatan pada buah jeruk mandarin. Dengan menggunakan fitur klasifikasi jeruk, pengguna cukup melakukan pemindaian (scan) pada gambar jeruk, dan aplikasi akan menampilkan persentase kemungkinan kondisi jeruk tersebut, apakah tergolong baik atau memiliki kecacatan tertentu.
 =======================================================================================================================================================================
