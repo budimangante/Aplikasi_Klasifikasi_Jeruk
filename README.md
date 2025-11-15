@@ -46,3 +46,4 @@ C. Cara Aktifkan Local Tunnel:
 
 yup cara ini untuk melakukan pengaktifan pada API appjeruk ini.
 
+https://drive.google.com/drive/folders/1ZUPfZ8K0zm4RWryRZ-nNS658xHfUYK-b?usp=sharing
