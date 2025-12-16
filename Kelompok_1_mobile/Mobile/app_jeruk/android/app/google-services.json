@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544902525465",
+    "project_id": "app-jeruk",
+    "storage_bucket": "app-jeruk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544902525465:android:f5186dbd43d332c2c87088",
+        "android_client_info": {
+          "package_name": "com.example.app_jeruk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGDQ3BuUANepJIW5ZmwksQNhOrFDzfCHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

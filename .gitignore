@@ -1,0 +1,11 @@
+# ML models
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Django
+db.sqlite3
+__pycache__/
+.env
+
